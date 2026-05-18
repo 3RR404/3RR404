@@ -143,6 +143,11 @@ Event & company management platform.
 ## 🧩 Custom E-Shop Platform
 
 Custom-built e-commerce solution developed on proprietary PHP framework.
+Used: [impresspic](https://impresspic.com/)
+
+### Stack
+Nette
+Vue.js
 
 ### Features
 
