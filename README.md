@@ -43,6 +43,7 @@ I specialize in the PHP ecosystem, API architecture, authentication systems, and
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ## Databases & Integrations
 
@@ -57,29 +58,7 @@ I specialize in the PHP ecosystem, API architecture, authentication systems, and
 
 # 💼 Featured Projects
 
-## 🏗 Galia
-
-B2B customer zone for mining hardware sales.
-
-### Stack
-
-- Laravel 12
-- Nuxt SPA
-- Keycloak SSO
-- Filament Admin
-- REST API
-
-### Features
-
-- Centralized authentication & authorization via Keycloak
-- B2B customer accounts and role management
-- ERP integrations
-- Price offers, invoices and order management
-- Laravel backend serving SPA frontend API
-
----
-
-## 🛒 Mollvero
+## 🛒 Mollvero ![2026 v1.0.0](https://img.shields.io/badge/2026-v1.0.0-009688?style=plastic)
 
 Modern B2B/B2C e-commerce platform.
 
@@ -101,7 +80,48 @@ Modern B2B/B2C e-commerce platform.
 
 ---
 
-## 🏢 Kooperativa / Kooperativa DSS
+## 🏗 Galia ![2025v1.0.0](https://img.shields.io/badge/2025-v1.0.0-009688?style=plastic&color=White)
+
+B2B customer zone for towing hardware sales.
+
+### Stack
+
+- Laravel 12
+- Nuxt SPA
+- Keycloak SSO
+- Filament Admin
+- REST API
+
+### Features
+
+- Centralized authentication & authorization via Keycloak
+- B2B customer accounts and role management
+- ERP integrations
+- Price offers, invoices and order management
+- Laravel backend serving SPA frontend API
+
+---
+
+## 🎫 Findin ![Static Badge](https://img.shields.io/badge/2024-v1.0.0-009688?style=plastic&color=White)
+
+Event & company management platform.
+
+### Stack
+
+- OctoberCMS
+- Elasticsearch
+- REST API
+
+### Features
+
+- Event & company management
+- ERP integrations
+- Reusable plugin architecture
+- SLA maintenance & development
+
+---
+
+## 🏢 Kooperativa ![Static Badge](https://img.shields.io/badge/2022-v1.0.0-009688?style=plastic&color=White) / Kooperativa DSS ![Static Badge](https://img.shields.io/badge/2023-v1.0.0-009688?style=plastic&color=White)
 
 Enterprise content & document management solutions.
 
@@ -121,33 +141,16 @@ Enterprise content & document management solutions.
 
 ---
 
-## 🎫 Findin
-
-Event & company management platform.
-
-### Stack
-
-- OctoberCMS
-- Elasticsearch
-- REST API
-
-### Features
-
-- Event & company management
-- ERP integrations
-- Reusable plugin architecture
-- SLA maintenance & development
-
----
-
-## 🧩 Custom E-Shop Platform
+## 🧩 Custom E-Shop Platform ![Static Badge](https://img.shields.io/badge/2019-v1.0.0-009688?style=plastic&color=White)
 
 Custom-built e-commerce solution developed on proprietary PHP framework.
+
 Used: [impresspic](https://impresspic.com/)
 
 ### Stack
-Nette
-Vue.js
+
+- Nette
+- Vue.js
 
 ### Features
 
@@ -157,14 +160,6 @@ Vue.js
 - Loyalty system
 - B2B pricing groups
 - GoPay payment integration
-
----
-
-# 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=3RR404&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3RR404&layout=compact&theme=tokyonight)
 
 ---
 
