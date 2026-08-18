@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ján Michel
 
-Backend-focused PHP developer with 10+ years of experience building web applications, B2B portals, e-commerce platforms and custom enterprise solutions.
+Backend-focused PHP developer with many years of experience building web applications, B2B portals, e-commerce platforms and custom enterprise solutions.
 
 I specialize in the PHP ecosystem, API architecture, authentication systems, and scalable backend development using Laravel, Nette and modern DevOps workflows.
 
@@ -165,14 +165,13 @@ Used: [impresspic](https://impresspic.com/)
 
 # 📫 Contact
 
-- 📧 oknajlehcim@gmail.com
+- 📧 jan.michel@devly.sk
 - 💻 GitHub: https://github.com/3RR404
 
 ---
 
 # 🧠 Additional Info
 
-- Programming since age 13
 - Experience with legacy modernization & migrations
 - Strong understanding of scalable backend systems
 - Daily usage of Docker & Kubernetes
